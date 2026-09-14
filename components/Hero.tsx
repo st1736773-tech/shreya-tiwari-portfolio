@@ -51,7 +51,7 @@ const Hero = () => {
 
           {/* Introduction */}
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Shreya Tiwari, a 3rd-year B.Tech CSE (AI/ML) student
+            Hi! I&apos;m Shreya Tiwari, a 3rd-Semester B.Tech CSE (AI/ML) student
             passionate about building intelligent and practical software.
           </p>
 
